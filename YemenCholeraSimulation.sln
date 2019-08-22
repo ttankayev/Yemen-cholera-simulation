@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YemenCholeraSimulation", "YemenCholeraSimulation\YemenCholeraSimulation.csproj", "{1F55C939-5242-45BF-AAB9-B0BFE05FBB6D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DataProcessing", "DataProcessing\DataProcessing.pyproj", "{1B6E283A-D46E-49A7-82CC-E5B7BC890EB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F55C939-5242-45BF-AAB9-B0BFE05FBB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F55C939-5242-45BF-AAB9-B0BFE05FBB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F55C939-5242-45BF-AAB9-B0BFE05FBB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F55C939-5242-45BF-AAB9-B0BFE05FBB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6E283A-D46E-49A7-82CC-E5B7BC890EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6E283A-D46E-49A7-82CC-E5B7BC890EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4DE6870-63E0-4582-A436-7A5D298F10A2}
+	EndGlobalSection
+EndGlobal
